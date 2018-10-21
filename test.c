@@ -11,6 +11,8 @@ void test2(){
 
 int test2(){
 	int x;
+	//added a lot here
+	//and stuff
 	return 1;
 }
 
