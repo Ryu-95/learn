@@ -5,3 +5,6 @@ int main(){
 	printf("1modify"); //mofified1
 	return 0;
 }
+void test2(){
+	
+}
