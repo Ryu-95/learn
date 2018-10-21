@@ -10,6 +10,7 @@ void test2(){
 }
 
 int test2(){
+//comment
 	int x;
 	//added a lot here
 	//and stuff
