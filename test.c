@@ -1,9 +1,6 @@
 int main(){
-	int x;
-	float j;
-	printf("test13333");
-	printf("test233331");
-	//added world
-	//hello
+	printf("delete");
+	printf("add");
+	printf("modify");
 	return 0;
 }
