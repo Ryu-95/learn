@@ -13,3 +13,8 @@ int test2(){
 	int x;
 	return 1;
 }
+
+int test3(){
+	//dont touch
+	return 123;
+}
